@@ -2,6 +2,8 @@
 
 O HTML, CSS e JS se encontam no arquivo [template.zip](template.zip).
 
+**É importante lembrar que além dos componentes abaixo, a criação de um novo archetype, templates e policies também são necessários conforme for levantada a necessidade.**
+
 ## 1. Title 
 
 O componente deve possibilitar o preenchimento do título e selecionar o nível do cabeçalho H1 - H6.
